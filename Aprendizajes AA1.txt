@@ -1,0 +1,1 @@
+En este trabajo práctico aprendí cuando y por que se usan las regresiones lineales, como definir las distintas variables que intervienen y establecer la correlación entre las mismas, como desafio importante me quedo como incluir distintas variables y definir sus formulas para que impacten en una regresión multiple
